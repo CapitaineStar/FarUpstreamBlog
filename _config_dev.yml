@@ -1,5 +1,5 @@
 #
-# bundle exec jekyll serve --config _config.yml
+# bundle exec jekyll serve --config _config_dev.yml
 #
 ###################################
 # Site wide configuration
@@ -9,7 +9,7 @@ title: CapitaineStar
 email: "contact@farupstream.com"
 description: "Far Upstream is a DevBlog dedicated to the personnal projects of CapitaineStar"
 baseurl: ""
-url: "http://farupstream.com"
+url: "http://127.0.0.1:4000"
 #repository: capitainestar/leonids
 include: ['_pages']
 destination: "../FarUpstream"

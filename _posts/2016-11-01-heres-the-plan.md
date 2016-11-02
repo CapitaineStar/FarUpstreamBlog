@@ -23,7 +23,7 @@ This is not a story-driven game but there will be a minimalistic narrative throu
 
 #### About me
 
-I am J&eacute;r&ocirc;me Viens Brie (AKA Capitaine Star) and I've been making games for almost 6 years now. Most of my time as been spent on AAA titles at Ubisoft Quebec (check out the stuff I worked on!). My last official job title has been "Assistant" Technical Art Director which basically mean that I make sure the game works fine by constantly nagging the programmers and preventing artists to do too much damage. I have an academic background in computer science AND Arts so that makes me some kind of jake-of-all-trades. With all those skills and experience, I'm sure everything will be juuust fine. 
+I am J&eacute;r&ocirc;me Viens Brie (AKA Capitaine Star) and I've been making games for almost 6 years now. Most of my time as been spent on AAA titles at Ubisoft Quebec ([check out the stuff I worked on!](http://jeromebrie.com){:target="_blank"}). My last official job title has been "Assistant" Technical Art Director which basically mean that I make sure the game works fine by constantly nagging the programmers and preventing artists to do too much damage. I have an academic background in computer science AND Arts so that makes me some kind of jake-of-all-trades. With all those skills and experience, I'm sure [everything will be juuust fine](http://i.imgur.com/l3v4P3s.jpg){:target="_blank"}.
 
 #### About the Dev Blog
 
