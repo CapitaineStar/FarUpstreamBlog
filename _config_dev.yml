@@ -5,7 +5,7 @@
 # Site wide configuration
 ####################################
 #
-title: CapitaineStar
+title: "Far Upstream"
 email: "contact@farupstream.com"
 description: "Far Upstream is a DevBlog dedicated to the personnal projects of CapitaineStar"
 baseurl: ""
