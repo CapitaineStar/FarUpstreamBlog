@@ -7,7 +7,7 @@
 #
 title: "Far Upstream"
 email: "contact@farupstream.com"
-description: "Far Upstream is a DevBlog dedicated to the personnal projects of CapitaineStar"
+description: "DevBlog of CapitaineStar"
 baseurl: ""
 url: "http://127.0.0.1:4000"
 #repository: capitainestar/leonids
@@ -42,11 +42,11 @@ owner:
   name: far upstream
   avatar: aleph-logo.png
   job: "Dev Blog"
-  bio: "Far Upstream is a devblog dedicated to the game projects of CapitaineStar. Come see inside! There's plenty of neat stuff and self-doubts to share!"
+  bio: "Far Upstream is a devblog dedicated to the game projects of CapitaineStar. Come see inside! There's plenty of neat stuff and self-doubt to share!"
   email:
   disqus-shortname: CapitaineStar 
   twitter: capitainestar
-  facebook: #username
+  facebook: FarUpstream
   google:
     plus: #username
     analytics:
@@ -57,7 +57,7 @@ owner:
   github: capitainestar
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: jeromebrie
   skype: #username
   xing: #username
   instagram: #username

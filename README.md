@@ -1,5 +1,5 @@
-# Far Upstream Blog
+# Far Upstream DevBlog
 
-This is the Jekyll files for the Far Upstream blog.
+These are the static Jekyll files output for the Far Upstream devblog.
 
 Hosted on GitHub Pages
