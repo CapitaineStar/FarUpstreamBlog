@@ -1,75 +1,21 @@
 #
-# bundle exec jekyll serve --config _config_dev.yml
+# bundle exec jekyll serve --config _config.yml,_config_dev.yml
 #
 ###################################
 # Site wide configuration
 ####################################
 #
-title: "Far Upstream"
-email: "contact@farupstream.com"
-description: "DevBlog of CapitaineStar"
-baseurl: ""
 url: "http://127.0.0.1:4000"
-#repository: capitainestar/leonids
-include: ['_pages']
-destination: "../FarUpstream"
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          America/Montreal
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
-encoding:		   utf-8
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
 
 #
 ###################################
 # Site Owner configuration
 ####################################
 #
-owner:
-  name: far upstream
-  avatar: aleph-logo.png
-  job: "Dev Blog"
-  bio: "Far Upstream is a devblog dedicated to the game projects of CapitaineStar. Come see inside! There's plenty of neat stuff and self-doubt to share!"
-  email:
-  disqus-shortname: CapitaineStar 
-  twitter: capitainestar
-  facebook: FarUpstream
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: capitainestar
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: jeromebrie
-  skype: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
+

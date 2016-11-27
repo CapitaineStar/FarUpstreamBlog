@@ -1,5 +1,5 @@
 #
-# bundle exec jekyll serve --config _config.yml
+# bundle exec jekyll build
 #
 ###################################
 # Site wide configuration
