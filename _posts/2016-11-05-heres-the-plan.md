@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "Here's the plan..."
+excerpt: "I'm making a game! Estimated current progress = 1%"
 categories: [hello world]
 comments: true
+image:
+  feature: https://source.unsplash.com/X0OoHrPvgXE/1250x500
 ---
-
-![Unsplash Image](https://source.unsplash.com/X0OoHrPvgXE/1250x500)
 
 I'm making a game!
 
 Estimated current progress = **1%**
 
-I kinda know what I want to make but have no idea what it will become. The current goal is to have a functionnal prototype as quickly as possible. I intend on being pretty open about the developement of this game. There will be good fortunes and mishaps along the way and provided they are not too embarassing, I will share them here.
+I kinda know what I want to make but have no idea what it will become. The current goal is to have a functional prototype as quickly as possible. I intend on being pretty open about the development of this game. There will be good fortunes and mishaps along the way and provided they are not too embarrassing, I will share them here.
 
 Oh! also, there is no official title for now (**TO DO**) but here's what it's all about:
 
@@ -19,7 +20,7 @@ Oh! also, there is no official title for now (**TO DO**) but here's what it's al
 
 The game is a strategic-shooter about tracking down an adversary across the multiverse. The player has to find and choose the right gear to complete his task. The world is lifeless, hostile and full of surprises. The view is from a third-person perspective and with a 3D environment created with procedural art on acid.
 
-This is not a story-driven game but there will be a minimalistic narrative through the setting and the characters. The focus will be on a short experience with a lot of replayability.
+This is not a story-driven game but there will be a minimalist narrative through the setting and the characters. The focus will be on a short experience with a lot of replayability.
 
 #### About me
 

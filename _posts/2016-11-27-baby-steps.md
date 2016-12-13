@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Baby steps"
+excerpt: "I just finished the first &quot;real&quot; full-time work week for the game."
 categories: [dev update]
 comments: true
+image:
+  feature: https://source.unsplash.com/mln2ExJIkfc/1250x500
 ---
-
-![Unsplash Image](https://source.unsplash.com/mln2ExJIkfc/1250x500)
 
 I just finished the first "real" full-time work week for the game. Here's what happened:
 
