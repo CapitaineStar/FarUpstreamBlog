@@ -1,6 +1,7 @@
 echo Running Jekyll
 
 f:
+cd\
 cd Documents
 cd GitHub
 cd FarUpstreamDev

@@ -1,4 +1,3 @@
-https://unsplash.com/photos/C-wZznnEAH8
 https://unsplash.com/photos/Zjd6NvWUf5k
 https://unsplash.com/photos/j0g8taxHZa0
 https://unsplash.com/photos/hXOGHaGCtdA
