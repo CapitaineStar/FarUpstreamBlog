@@ -2,7 +2,7 @@
 layout: post
 title: "There shall be bugs"
 excerpt: "Version 0.3: not so smart Prey and new universe."
-categories: [dev update]
+categories: [dev update, release]
 comments: true
 image:
   feature: https://source.unsplash.com/hXOGHaGCtdA/1250x500

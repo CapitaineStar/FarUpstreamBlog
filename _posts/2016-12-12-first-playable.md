@@ -2,7 +2,7 @@
 layout: post
 title: "First &quot;playable&quot;"
 excerpt: "Ok so that took longer than expected!"
-categories: [dev update]
+categories: [dev update, release]
 comments: true
 image:
   feature: https://source.unsplash.com/PQAZ_RZ9kdY/1250x500
