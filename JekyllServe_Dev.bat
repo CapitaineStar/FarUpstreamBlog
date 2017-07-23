@@ -1,4 +1,6 @@
+@echo off
 echo Running Jekyll
+echo --------------------------
 
 f:
 cd\

@@ -5,7 +5,7 @@ excerpt: "Version 0.3: not so smart Prey and new universe."
 categories: [dev update, release]
 comments: true
 image:
-  feature: https://source.unsplash.com/hXOGHaGCtdA/1250x500
+  feature: 2017-02-11.png
 ---
 
 I'm one (big) step closer to a real game! Below you will find the link for **version 0.3** of the game but first, here's what's been happening during the last month.

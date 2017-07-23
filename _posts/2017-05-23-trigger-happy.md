@@ -5,7 +5,7 @@ excerpt: "Version 0.4: Pew pew pew!"
 categories: [dev update, release]
 comments: true
 image:
-  feature: https://source.unsplash.com/BW0vK-FA3eg/1250x500
+  feature: 2017-05-23.png
 ---
 
 Yep, I'm asking for feedback again!

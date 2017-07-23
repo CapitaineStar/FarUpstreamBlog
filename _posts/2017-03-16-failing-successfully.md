@@ -5,7 +5,7 @@ excerpt: "One step forward, two steps back."
 categories: [dev update]
 comments: true
 image:
-  feature: https://source.unsplash.com/Zjd6NvWUf5k/1250x500
+  feature: 2017-03-16.png
 ---
 
 So in the past couple of weeks, not a lot of progress has been done. I have been bogged down in details, I trashed some concepts, introduced ugly bugs... I also possibly lost 2 weeks on a big change to the main character (more on that below).

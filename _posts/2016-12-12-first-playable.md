@@ -5,7 +5,7 @@ excerpt: "Ok so that took longer than expected!"
 categories: [dev update, release]
 comments: true
 image:
-  feature: https://source.unsplash.com/PQAZ_RZ9kdY/1250x500
+  feature: 2016-12-12.png
 ---
 
 Ok so that took longer than expected! Not only did I stray a little bit too far from the main path, but I also had a **lot** of troubles packaging an executable. Long story short: I had to re-download Unreal Engine completely (fun times).

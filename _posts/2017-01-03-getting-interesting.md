@@ -5,7 +5,7 @@ excerpt: "Happy new cosmic cycle everyone!"
 categories: [dev update]
 comments: true
 image:
-  feature: https://source.unsplash.com/C-wZznnEAH8/1250x500
+  feature: 2017-01-03.png
 ---
 
 Happy new cosmic cycle everyone!

@@ -5,7 +5,7 @@ excerpt: "New UI goodness and more info on the final step of the hunt"
 categories: [dev update]
 comments: true
 image:
-  feature: https://source.unsplash.com/7IhEikdEiXM/1250x500
+  feature: 2017-04-20.png
 ---
 
 It's been another long month since the last update so it's about time I give some news.

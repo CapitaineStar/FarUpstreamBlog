@@ -5,7 +5,7 @@ excerpt: "Taking refuge from Entropy"
 categories: [dev update]
 comments: true
 image:
-  feature: https://source.unsplash.com/V4wQMKnMyVU/1250x500
+  feature: 2017-01-14.png
 ---
 
 Hey there!

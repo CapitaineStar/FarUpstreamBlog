@@ -5,7 +5,7 @@ excerpt: "I just finished the first &quot;real&quot; full-time work week for the
 categories: [dev update]
 comments: true
 image:
-  feature: https://source.unsplash.com/mln2ExJIkfc/1250x500
+  feature: 2016-11-27.png
 ---
 
 I just finished the first "real" full-time work week for the game. Here's what happened:
