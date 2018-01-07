@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="JBsvEEVRe2x8KNW3rV08Vp7YnqcZ0ygZv-XQ9JhSsu0">
+    <meta name="description" content="{{ site.description }}">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <!-- CSS files -->
+    <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+    <!-- Icons -->
+    <!-- 16x16 -->
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+    <!-- 32x32 -->
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+</head>
+
+
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        {% include sidebar.html %}
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="feature-listing">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+  {% include js.html %}
+</body>
+</html>
